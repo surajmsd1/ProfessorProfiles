@@ -1,6 +1,3 @@
-# comp4100-spring2023-2
-
-COMP 4100 - Spring 2023, Team 2
 
 ## Installation
 
